@@ -20,5 +20,3 @@ Arghhh marinheiro\(a\), preparado para ficar SUPER ESTILOSO\(a\) com esse chapé
 {% endtab %}
 {% endtabs %}
 
-
-

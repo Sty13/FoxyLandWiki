@@ -2,7 +2,7 @@
 
 ## A textura não carregou, e agora? \(Erro 164\)
 
-Deu ruim, entrei no servidor e POR ALGUM MOTIVO DO ALÉM a textura não carregou E AGORA?   
+Deu ruim, entrei no servidor e POR ALGUM MOTIVO DO ALÉM a textura não carregou E AGORA?  
 Não se preocupe jovem gafanhoto, provavelmente o servidor não conseguiu registrar a sua entrada!
 
 ### 1. Deslogue e logue novamente no servidor.
@@ -11,7 +11,7 @@ Não se preocupe jovem gafanhoto, provavelmente o servidor não conseguiu regist
 
 ### 2. Digite O COMANDO 😰
 
-Vai até o chat do jogo e digite algum destes comandos abaixo: 
+Vai até o chat do jogo e digite algum destes comandos abaixo:
 
 ```text
 /F5

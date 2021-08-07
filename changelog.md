@@ -24,7 +24,7 @@ description: 'Ihhhh, eu amo coisas novas'
 * `[SERVER]`Caixa de chilli agora se chama Caixa de Pimenta!
 * `[SERVER]`Caixa de cana seca agora se chama Caixa de velas!
 
-##  📜 **Season 2 \| 03 de agosto \| Pré Alpha 0.2.9 \(pequeno update\)**
+## 📜 **Season 2 \| 03 de agosto \| Pré Alpha 0.2.9 \(pequeno update\)**
 
 ### Correções de bugs
 
