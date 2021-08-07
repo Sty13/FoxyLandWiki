@@ -50,5 +50,3 @@ Bem vindo a 1890 quando havia dinossauros, puts, ano errado
 {% endtab %}
 {% endtabs %}
 
-
-

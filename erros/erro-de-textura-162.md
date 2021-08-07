@@ -12,13 +12,13 @@ Este erro é simples, você provavelmente negou a resourcepack ao entrar no serv
 
 ![](../.gitbook/assets/screenshot_51.png)
 
-   2. Abaixo do IP clique em "Pacotes de recursos" até que indique "sim"
+1. Abaixo do IP clique em "Pacotes de recursos" até que indique "sim"
 
 ![](../.gitbook/assets/screenshot_52.png)
 
-   3.Clique em "Concluído", entre no servidor e aceite a resourcepack clicando em "sim".
+3.Clique em "Concluído", entre no servidor e aceite a resourcepack clicando em "sim".
 
 ## Encerramento
 
-Fácil não é?! agora você pode entrar e desfrutar de todas as novas funcionalidades que temos no servidor! 
+Fácil não é?! agora você pode entrar e desfrutar de todas as novas funcionalidades que temos no servidor!
 
