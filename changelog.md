@@ -19,7 +19,7 @@ description: 'Ihhhh, eu amo coisas novas'
 
 ### 🔨 Modificado
 
-* Nada :\(
+* `[WIKI]`A wiki foi movida para um repositório publico no github! [**Clique aqui para ver**](https://github.com/Sty13/FoxyLandWiki)**!**
 
 ## 📜 **Season 2 \| 05 de agosto \| Pré Alpha 0.3.0**
 
