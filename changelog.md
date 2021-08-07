@@ -4,6 +4,23 @@ description: 'Ihhhh, eu amo coisas novas'
 
 # 📜 Changelog
 
+## 📜 **Season 2 \| 06-07 de agosto \| Pré Alpha 0.3.1**
+
+### 🧰 Correções de bugs
+
+* `[SERVER]`Blocos sem textura agora contêm as texturas corretas!
+* `[SERVER]` Agora o nome do servidor no ESC está correto!
+
+### 📤 Adicionado
+
+* `[SERVER]`4 novos cosméticos pintáveis, clique ****[**aqui**](novos-itens-blocos/cosmeticos.md) para ver!
+* `[SERVER]`43 novas recipes adicionadas para os novos blocos
+* `[SERVER]`Arvore de bananeira adicionada! [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)\*\*\*\*
+
+### 🔨 Modificado
+
+* `[WIKI]`A wiki foi movida para um repositório publico no github! [**Clique aqui para ver**](https://github.com/Sty13/FoxyLandWiki)**!**
+
 ## 📜 **Season 2 \| 05 de agosto \| Pré Alpha 0.3.0**
 
 ### 🧰 Correções de bugs
