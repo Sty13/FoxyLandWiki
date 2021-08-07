@@ -9,7 +9,10 @@ description: 'Ihhhh, eu amo coisas novas'
 ### 🧰 Correções de bugs
 
 * `[SERVER]`Blocos sem textura agora contêm as texturas corretas!
-* `[SERVER]` Agora o nome do servidor no ESC está correto!
+* `[SERVER]`Agora o nome do servidor no ESC está correto!
+* `[SERVER]`Blocos agora não duplicam ao quebrar!
+* `[SERVER]`Agora a textura mostra o ultimo dia que foi alterada!
+* `[SERVER]`Novos blocos não quebram mais as texturas dos blocos anteriores!
 
 ### 📤 Adicionado
 
