@@ -13,10 +13,12 @@ description: 'Ihhhh, eu amo coisas novas'
 * `[SERVER]`Blocos agora não duplicam ao quebrar!
 * `[SERVER]`Agora a textura mostra o ultimo dia que foi alterada!
 * `[SERVER]`Novos blocos não quebram mais as texturas dos blocos anteriores!
+* `[SERVER]`As folhas agora são mais "fofas" :\)
+* `[SERVER]`As slabs de terra foram re-texturizadas novamente!
 
 ### 📤 Adicionado
 
-* `[SERVER]`4 novos cosméticos pintáveis, clique ****[**aqui**](novos-itens-blocos/cosmeticos.md) para ver!
+* `[SERVER]`4 novos cosméticos pintáveis, clique **\*\*\[**aqui\*\*\]\(novos-itens-blocos/cosmeticos.md\) para ver!
 * `[SERVER]`43 novas recipes adicionadas para os novos blocos
 * `[SERVER]`Arvore de bananeira adicionada! [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)\*\*\*\*
 
