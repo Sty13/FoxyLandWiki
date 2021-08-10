@@ -1,5 +1,7 @@
 ---
-description: 'Ihhhh, eu amo coisas novas'
+description: >-
+  Bem vindo(a) a sessão de changelogs, a ultima changelog postada sempre ficará
+  no topo da pagina!
 ---
 
 # 📜 Changelog
