@@ -4,6 +4,27 @@ description: 'Ihhhh, eu amo coisas novas'
 
 # 📜 Changelog
 
+## 📜 **Season 2 \| 09 & 10 de agosto \| Pré Alpha 0.3.2 \(BUG FIX\)**
+
+### 🧰 Correções de bugs
+
+* `[SERVER]`Blocos colocados eram duplicados ao quebrar \(causado pelo anticheat\)!
+* `[SERVER]`A barra de xp de escavação ficava invisível!
+* `[SERVER]`Ao mudar de mundos o seu modo de jogo era constantemente alterado!
+* `[SERVER]`O servidor reiniciava em horários randômicos!
+* `[SERVER]`O console mandava feedback dos comandos executados por ele!
+* `[SERVER]`O teleporte do /navegador não funcionavam corretamente!
+* `[REDE]`O IP anterior do domínio mine.foxyb.live estava incorreto e foi alterado para o correto!
+
+### 📤 Adicionado
+
+* `[SERVER]`Ao mudar de mundos o servidor muda seu modo de jogo! [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
+* `[SERVER]`Ao entrar na linha das raposas o som ambiente tocará! \(apenas com a textura custom\)[**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
+
+### 🔨 Modificado
+
+* Nada :\(
+
 ## 📜 **Season 2 \| 06-07 de agosto \| Pré Alpha 0.3.1**
 
 ### 🧰 Correções de bugs
@@ -20,7 +41,7 @@ description: 'Ihhhh, eu amo coisas novas'
 
 * `[SERVER]`4 novos cosméticos pintáveis, clique **\*\*\[**aqui\*\*\]\(novos-itens-blocos/cosmeticos.md\) para ver!
 * `[SERVER]`43 novas recipes adicionadas para os novos blocos
-* `[SERVER]`Arvore de bananeira adicionada! [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)\*\*\*\*
+* `[SERVER]`Arvore de bananeira adicionada! [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
 
 ### 🔨 Modificado
 
@@ -36,9 +57,9 @@ description: 'Ihhhh, eu amo coisas novas'
 
 ### 📤 Adicionado
 
-* `[SERVER]`Mais de 183 blocos novos! [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)\*\*\*\*
-* `[SERVER]`Mais de 56 receitas adicionadas! [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)\*\*\*\*
-* `[SERVER]`Novos itens de agricultura \(como banana, alface, berinjela e muito mais!\)[**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)\*\*\*\*
+* `[SERVER]`Mais de 183 blocos novos! [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
+* `[SERVER]`Mais de 56 receitas adicionadas! [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
+* `[SERVER]`Novos itens de agricultura \(como banana, alface, berinjela e muito mais!\) [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
 * `[SERVER]`2 novos cosméticos adicionados!
 
 ### 🔨 Modificado
@@ -51,7 +72,7 @@ description: 'Ihhhh, eu amo coisas novas'
 ### Correções de bugs
 
 * `[REDE]`O mundo de recursos foi movido de volta para o servidor principal!
-* `[SERVER]`Ao entrar no servidor a textura será automaticamente carregada. [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)\*\*\*\*
+* `[SERVER]`Ao entrar no servidor a textura será automaticamente carregada. [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
 
 ### Adicionado
 
