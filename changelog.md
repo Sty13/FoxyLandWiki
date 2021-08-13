@@ -6,6 +6,25 @@ description: >-
 
 # 📜 Changelog
 
+## 📜 **Season 2 \| 13 de agosto \| Pré Alpha 0.3.3**
+
+### 🧰 Correções de bugs
+
+* `[SERVER]` As plantas não cresciam naturalmente!
+* `[SERVER]` Agora não é necessário de uma textura custom para ouvir o som ambiente do spawn!
+* `[SERVER]` Todos as furnitures foram movidas para o item "diamante" para não ocorrer conflitos
+* `[SERVER]`Os itens bugados foram substituídos pelos itens corretos!
+
+### 📤 Adicionado
+
+* `[SERVER] 36 novos móveis foram adicionados, sendo 21 deles pintáveis`
+* `[SERVER]`Tocos de Madeira e Bancos de praça foram espalhados pela cidade para você poder sentar se estiver cansado :\)
+* \[SERVER\] Começamos hoje os teste com novas IU \(Interface de usuário\) :\)
+
+### 🔨 Modificado
+
+* `[REDE]` A proteção anti DDOS foi aprimorada!
+
 ## 📜 **Season 2 \| 09 & 10 de agosto \| Pré Alpha 0.3.2 \(BUG FIX\)**
 
 ### 🧰 Correções de bugs
@@ -41,7 +60,7 @@ description: >-
 
 ### 📤 Adicionado
 
-* `[SERVER]`4 novos cosméticos pintáveis, clique **\*\*\[**aqui\*\*\]\(novos-itens-blocos/cosmeticos.md\) para ver!
+* `[SERVER]`4 novos cosméticos pintáveis, [clique aqui](novos-itens-blocos/cosmeticos.md) para ver!
 * `[SERVER]`43 novas recipes adicionadas para os novos blocos
 * `[SERVER]`Arvore de bananeira adicionada! [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
 
