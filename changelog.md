@@ -19,7 +19,7 @@ description: >-
 
 * `[SERVER] 36 novos móveis foram adicionados, sendo 21 deles pintáveis`
 * `[SERVER]`Tocos de Madeira e Bancos de praça foram espalhados pela cidade para você poder sentar se estiver cansado :\)
-* \[SERVER\] Começamos hoje os teste com novas IU \(Interface de usuário\) :\)
+* `[SERVER]` Começamos hoje os teste com novas IU \(Interface de usuário\) :\)
 
 ### 🔨 Modificado
 
