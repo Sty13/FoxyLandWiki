@@ -24,6 +24,7 @@ description: >-
 ### 🔨 Modificado
 
 * `[REDE]` A proteção anti DDOS foi aprimorada!
+* `[SERVER]` O nether e o end foram desabilitados para aprimoramento da geração dos mesmos!
 
 ## 📜 **Season 2 \| 09 & 10 de agosto \| Pré Alpha 0.3.2 \(BUG FIX\)**
 
