@@ -6,6 +6,25 @@ description: >-
 
 # 📜 Changelog
 
+## 📜 **Season 2 \| 19 de agosto \| Pré Alpha 0.3.4**
+
+### 🧰 Correções de bugs
+
+* O rank admin era substituído pelo caractere  incorreto!
+* Alguns comandos estavam sendo birrentos e não queriam rodar corretamente!
+* Agora o /F5 e o /reload-texture funcionam corretamente \(eu espero\)!
+
+### 📤 Adicionado
+
+* Agora a twitch ou o Youtube dos jogadores aparecem de baixo do nick!
+
+![](.gitbook/assets/e9lw8szweayl8wq.png)
+
+* Agora ao entrar no servidor você irá ser teleportado\(a\) para um lugar calmo até que a sua textura carregue! \(de nada\)
+* Agora temos uma loja de móveis, quer dizer, apenas o esqueleto dela ;-; 
+
+### 🔨 Modificado
+
 ## 📜 **Season 2 \| 13 de agosto \| Pré Alpha 0.3.3**
 
 ### 🧰 Correções de bugs
