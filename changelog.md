@@ -16,7 +16,7 @@ description: 'Ihhhh, eu amo coisas novas'
 
 ### 📤 Adicionado
 
-* `[SERVER]`4 novos cosméticos pintáveis, clique ****[**aqui**](novos-itens-blocos/cosmeticos.md) para ver!
+* `[SERVER]`4 novos cosméticos pintáveis, clique **\*\*\[**aqui\*\*\]\(novos-itens-blocos/cosmeticos.md\) para ver!
 * `[SERVER]`43 novas recipes adicionadas para os novos blocos
 * `[SERVER]`Arvore de bananeira adicionada! [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)\*\*\*\*
 
