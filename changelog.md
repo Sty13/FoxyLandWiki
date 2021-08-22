@@ -10,7 +10,7 @@ description: >-
 
 ### 🧰 Correções de bugs
 
-* O rank admin era substituído pelo caractere  incorreto!
+* O rank admin era substituído pelo caractere incorreto!
 * Alguns comandos estavam sendo birrentos e não queriam rodar corretamente!
 * Agora o /F5 e o /reload-texture funcionam corretamente \(eu espero\)!
 
