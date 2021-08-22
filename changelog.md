@@ -6,7 +6,7 @@ description: >-
 
 # 📜 Changelog
 
-## 📜 **Season 2 \| 19 de agosto \| Pré Alpha 0.3.4**
+## 📜 **Season 2 \| 19 & 22 de agosto \| Pré Alpha 0.3.4**
 
 ### 🧰 Correções de bugs
 
