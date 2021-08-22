@@ -25,6 +25,9 @@ description: >-
 
 ### 🔨 Modificado
 
+* A changelog não contem mais \[SERVER\] antes das atualizações/correções de bugs/modificação para deixar mais fácil de nós criarmos as changelogs :\)
+* Agora a mensagem de "Você foi teleportado para `insiraonomedawarp`" é só "Você foi teleportado\(a\) com sucesso"
+
 ## 📜 **Season 2 \| 13 de agosto \| Pré Alpha 0.3.3**
 
 ### 🧰 Correções de bugs
