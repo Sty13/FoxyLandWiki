@@ -6,6 +6,14 @@ description: >-
 
 # 📜 Changelog
 
+## 📜 **Season 2 \| 24 de agosto \| Pré Alpha 0.3.5**
+
+### 🧰 Correções de bugs
+
+* Por algum motivo o evento `player_world` __foi alterado para __`world_to` Fazendo assim o som ambiente do servidor não ser tocado corretamente!
+* Alguns blocos foram re-colocados no servidor depois do incidente com os móveis \(desculpa Luiz\)
+* Os ranks foram de novo alterados para outro caractere, mas agora com um sistema novo nós achamos que não irá mais acontecer ;\)
+* 
 ## 📜 **Season 2 \| 19 & 22 de agosto \| Pré Alpha 0.3.4**
 
 ### 🧰 Correções de bugs
@@ -16,7 +24,7 @@ description: >-
 
 ### 📤 Adicionado
 
-* Agora a twitch ou o Youtube dos jogadores aparecem de baixo do nick!
+* Agora a twitch ou o Youtube dos jogadores aparecem de baixo do nick! [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
 
 ![](.gitbook/assets/e9lw8szweayl8wq.png)
 
@@ -63,7 +71,7 @@ description: >-
 ### 📤 Adicionado
 
 * `[SERVER]`Ao mudar de mundos o servidor muda seu modo de jogo! [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
-* `[SERVER]`Ao entrar na linha das raposas o som ambiente tocará! \(apenas com a textura custom\)[**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
+* `[SERVER]`Ao entrar na ilha das raposas o som ambiente tocará! \(apenas com a textura custom\)[**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
 
 ### 🔨 Modificado
 
