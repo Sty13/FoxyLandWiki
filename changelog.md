@@ -6,7 +6,7 @@ description: >-
 
 # 📜 Changelog
 
-## 📜 **Season 2 \| 24-27 de agosto \| Pré Alpha 0.3.5**
+## 📜 **Season 2 \| 24-27 de agosto \| Pré Alpha 0.3.5 HOT FIX & UPDATES**
 
 ### 🧰 Correções de bugs
 
@@ -24,7 +24,8 @@ description: >-
 * Sistema de proximity voice adicionado. [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
 * Sistema de sound-per-browser adicionado. [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
 * Sistema de AFK adicionado.
-* 
+* Banco foxes adicionado. [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
+
 ### 🔨 Modificado
 
 * Algumas cores no chat foram modificadas :\)
