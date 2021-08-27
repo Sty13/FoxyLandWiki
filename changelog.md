@@ -6,14 +6,30 @@ description: >-
 
 # 📜 Changelog
 
-## 📜 **Season 2 \| 24 de agosto \| Pré Alpha 0.3.5**
+## 📜 **Season 2 \| 24-27 de agosto \| Pré Alpha 0.3.5**
 
 ### 🧰 Correções de bugs
 
 * Por algum motivo o evento `player_world` __foi alterado para __`world_to` Fazendo assim o som ambiente do servidor não ser tocado corretamente!
-* Alguns blocos foram re-colocados no servidor depois do incidente com os móveis \(desculpa Luiz\)
+* Alguns blocos foram recolocados no servidor depois do incidente com os móveis \(desculpa Luiz\)
 * Os ranks foram de novo alterados para outro caractere, mas agora com um sistema novo nós achamos que não irá mais acontecer ;\)
+* Ocorreu alguns problemas com a conexão ovh-&gt;vps, nossa equipe aplicou uma gambiarra para arrumar o problema provisoriamente. 
+
+### 📤 Adicionado
+
+* Novos grupos: Time, staff, mod, twitch.tv, youtube, elite, pro, mvp, vip, alpha e finalmente player :\)
+
+![admin n&#xE3;o est&#xE1; inclu&#xED;do nessa lista](.gitbook/assets/screenshot_90.png)
+
+* Sistema de proximity voice adicionado. [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
+* Sistema de sound-per-browser adicionado. [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)
+* Sistema de AFK adicionado.
 * 
+### 🔨 Modificado
+
+* Algumas cores no chat foram modificadas :\)
+* Agora a tag "twitch.tv/" não contem a "/", tava feia de mais ;-;
+
 ## 📜 **Season 2 \| 19 & 22 de agosto \| Pré Alpha 0.3.4**
 
 ### 🧰 Correções de bugs
