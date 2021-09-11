@@ -19,4 +19,5 @@
 ## 🧡 Dicas
 
 * [🔋 Performance](dicas/performance.md)
+* [🧾Como claimar um terreno](dicas/untitled.md)
 

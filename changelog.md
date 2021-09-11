@@ -6,6 +6,30 @@ description: >-
 
 # 📜 Changelog
 
+## 📜 **Season 2 \| 11 de setembro \| Pré Alpha 0.3.6**
+
+### 🧰 Correções de bugs
+
+* A textura não carregava corretamente e você ficava preso no limbo ;-;
+* O som das madeiras simplesmente sumiram do pack padrão, mas agora estão de volta \(não me pergunte como arrumei, pq nem eu sei\) 
+* O sistema de proximity audio acabou bugando quando eu atualizei para o bungeecoord, mas agora já está tudo rodando perfeitamente \(só alguns erros aqui e ali, mas preguiça\)
+* Todos os sons estavam sendo transmitidos por um modo incorreto \(gambiarra\). Mas agora com o nosso novo SUPER ULTRA MEGA SOUND SYSTEM, brincadeira, só uma nova feature no plugin :\)
+* Com a alteração do sistema do som ^ os sons já setados como som ambiente, campainha e sons de economia bugaram ;-; mas já foi arrumado hehe
+* OS BLOCOS BUGARAM DE NOVO, mas agora achamos o problema :\)
+
+### 📤 Adicionado
+
+* Um sistema de plugins foi implementado! \(Isso ajudará ao ligar/desligar/reiniciar plugins :&gt;\)
+* Agora temos um lobby :dance: 
+* SIstema de fila
+* O /navegador agora aparece normalmente \(ele não fica mais vermelho como se não existisse\)
+* Um audio ao entrar no servidor :^\) só pra teste isso na verdade
+
+### 🔨 Modificado
+
+* Todos os plugins foram atualizados corretamente! Chega daquelas mensagens spammando o chat.
+* Os blocos existentes bugaram, mas agora conseguimos colocar um ID especifico em cada um :\)
+
 ## 📜 **Season 2 \| 24-27 de agosto \| Pré Alpha 0.3.5 HOT FIX & UPDATES**
 
 ### 🧰 Correções de bugs

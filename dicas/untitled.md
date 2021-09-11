@@ -1,0 +1,2 @@
+# 🧾Como claimar um terreno
+
