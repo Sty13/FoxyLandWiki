@@ -16,6 +16,7 @@ description: >-
 * Todos os sons estavam sendo transmitidos por um modo incorreto \(gambiarra\). Mas agora com o nosso novo SUPER ULTRA MEGA SOUND SYSTEM, brincadeira, só uma nova feature no plugin :\)
 * Com a alteração do sistema do som ^ os sons já setados como som ambiente, campainha e sons de economia bugaram ;-; mas já foi arrumado hehe
 * OS BLOCOS BUGARAM DE NOVO, mas agora achamos o problema :\)
+* Foi corrigido alguns bugs de dupe como xp infinito no /skills \(sim, isso crasha o servidor\)
 
 ### 📤 Adicionado
 
@@ -28,7 +29,7 @@ description: >-
 
 ### 🔨 Modificado
 
-* Todos os plugins foram atualizados corretamente! Chega daquelas mensagens spammando o chat.
+* Todos os plugins foram atualizados corretamente! Chega daquelas mensagens spammando o chat.   ^ EDIT: mais plugins foram atualizados, alguns não falam que precisam ser atualizados! 
 * Os blocos existentes bugaram, mas agora conseguimos colocar um ID especifico em cada um :\)
 
 ## 📜 **Season 2 \| 24-27 de agosto \| Pré Alpha 0.3.5 HOT FIX & UPDATES**
