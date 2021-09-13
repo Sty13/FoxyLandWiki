@@ -26,6 +26,7 @@ description: >-
 * O /navegador agora aparece normalmente \(ele não fica mais vermelho como se não existisse\)
 * Um audio ao entrar no servidor :^\) só pra teste isso na verdade
 * Foi adicionado uma sessão de [como claimar um terreno](dicas/untitled.md)! ainda não tem nada lá, mas logo logo irei adicionar.
+* Agora temos um banco :pog:
 
 ### 🔨 Modificado
 
