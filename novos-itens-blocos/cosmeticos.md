@@ -1,3 +1,9 @@
+---
+description: >-
+  Todos os cosméticos que tem alguma parte marrom são por padrão pintáveis. Mas
+  pode ter algumas exceções hehe.
+---
+
 # 🛒 Cosméticos
 
 {% tabs %}
