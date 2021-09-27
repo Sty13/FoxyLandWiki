@@ -6,6 +6,38 @@ description: >-
 
 # 📜 Changelog
 
+## 📜 **Season 2 \| 11-27 de setembro \| Pré Alpha 0.3.7**
+
+### 🧰 Correções de bugs
+
+* As cinemáticas não usavam o gamemode spectador, agora usam :\)
+* Ao entrar pela primeira vez no servidor, o som da cinemática não toca \(O bug é conhecido mas não foi corrigido ainda pois envolve ações de pessoas terceirizadas\)
+* 
+#### 🧰 Correções de bugs - Lobby
+
+* O seletor de server no lobby não estava conectando a season 2
+
+### 📤 Adicionado
+
+* Foram adicionados Grappling Hooks para facilitar a movimentação nos mundos. [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update) ****
+* Foi adicionado 2 novas cinemáticas ao servidor \(Ao entrar pela primeira vez e ao iniciar a quest do banco\)
+* Foi adicionadas novas partículas ao jogo
+
+####  📤 Adicionado - Lobby
+
+* Adicionado comandos para inicialização do evento de abertura do servidor!
+* Adicionado um tab
+* Pré evento adicionado
+* Um plugin de cosméticos foi adicionado ao lobby \(Não há conexão á season 2\)
+* O seletor de servidores foi atualizado
+* Uma textura própria ao lobby foi adicionada, isso faz com que a textura descarregue e depois carregue a da season 2 ao entrar no servidor survival! \(Iremos tentar amenizar/eliminar o tempo de descarregamento e carregamento da textura\)
+* 
+### 🔨 Modificado
+
+* Agora o portal é mais transparente
+* Algumas partículas foram atualizadas
+* Agora o uso de memória ram do servidor é menor
+
 ## 📜 **Season 2 \| 11 de setembro \| Pré Alpha 0.3.6**
 
 ### 🧰 Correções de bugs
