@@ -6,25 +6,27 @@ description: >-
 
 # 📜 Changelog
 
-## 📜 **Season 2 | 11-27 de setembro | Pré Alpha 0.3.7**
+## 📜 **Season 2 | 11/09-13/10 | Pré Alpha 0.3.7**
 
 ### 🧰 Correções de bugs
 
 * As cinemáticas não usavam o gamemode spectador, agora usam :)
 * Ao entrar pela primeira vez no servidor, o som da cinemática não toca (O bug é conhecido mas não foi corrigido ainda pois envolve ações de pessoas terceirizadas)
 * Ocorreu alguns problemas com a UUID de alguns jogadores que já entraram no servidor, mas isso foi corrigido e não esperamos que aconteça novamente!
+* O som ambiente não tocava se você estivesse a mais de 16 blocos do spawn
 
 #### 🧰 Correções de bugs - Lobby
 
 * O seletor de server no lobby não estava conectando a season 2
 * As mensagens do evento não apareciam corretamente
+* As musicas não tocavam se você estivesse a mais de 16 blocos do centro do mapa
 
 ### 📤 Adicionado
 
 * Foram adicionados Grappling Hooks para facilitar a movimentação nos mundos. [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)** **
 * Foi adicionado 2 novas cinemáticas ao servidor (Ao entrar pela primeira vez e ao iniciar a quest do banco)
 * Foi adicionadas novas partículas ao jogo
-* Um novo sistema de email foi adicionado
+* Um novo sistema de email foi adicionado [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)** **
 
 
 
@@ -45,6 +47,7 @@ description: >-
 * Agora o uso de memória ram do servidor é menor
 * Agora o carregamento da textura é ainda mais rápido
 * TODOS os blocos foram re-colocados dentro do jogo
+* O site do servidor foi modificado para conter outra data de lançamento (ainda não disponível para mobile)
 
 ## 📜 **Season 2 | 11 de setembro | Pré Alpha 0.3.6**
 
