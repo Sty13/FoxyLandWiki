@@ -1,2 +1,2 @@
-# 🧾Como claimar um terreno
+# 📜  Como claimar um terreno
 
