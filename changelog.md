@@ -6,6 +6,46 @@ description: >-
 
 # 📜 Changelog
 
+## 📜 **Season 2 | 17 de outubro | Pré Alpha 0.3.8 - Um novo vanilla**
+
+### 🧰 Correções de bugs
+
+* Agora o tempo de juros do banco é 2 vezes por dia
+
+### 📤 Adicionado
+
+* Agora os cosméticos podem ser pintados! (Movéis ainda não são suportados)
+* Agora todas as estandes de armadura são summonadas com braços
+* Tacando uma poção de invisibilidade em uma estande de armadura fará ela ficar invisível permanentemente (para remover o efeito basta colocar agua no bloco no qual o estande está) (o mesmo se aplica para item frame)
+* Agora os jogadores podem construir escadas "para baixo" clicando em uma escada mais alta enquanto seguram uma escada.
+* Ao deixar uma bigorna cair em cima de uma pedra, a pedra se transformará em areia
+* Ao clicar com um isqueiro em uma esponja molhada ela se secará e tirará 1 de durabilidade do isqueiro
+* Ao clicar com o direito segurando uma bola de slime em um pistão normal ele se transformará em uma pistão grudento
+* Agora o ejetor pode colocar blocos para onde está virado
+* Agora os ejetores enchem e esvaziam caldeirões usando baldes de água, lava ou neve fofa uwu
+* Cactos e cana de açúcar podem crescer com farinha de osso agora
+* Agora ao colocar farinha de osso dentro de um ejetor e colocar uma areia vermelha ou normal na frente do mesmo, nascerá um arbusto seco
+* Ao clicar com o botão direito em uma planta (tipo trigo) quando ela estiver totalmente crescida, os items dela serão droppados e a planta será replantada
+* Ao usar alguma cor com & em uma bigorna ao renomear um item, este item ficará com a cor selecionada
+* Ao clicar com o direito segurando shift e segurando um corante na mão olhando para um mob com nametag, irá tingir o nome deste mob com a cor que você está segurando
+* Agora o fogo na tela não aparecerá mais caso você esteja com o efeito de resistência ao fogo
+* <mark style="color:red;">**MUDANÇAS NOS MOBS:**</mark>
+* AGORA O WHITER TEM 2x MAIS VIDA
+* Quando o whiter estiver com a metade da vida ele começará a summonar esqueletos whiter para ajudá-lo na batalha
+* Ao clicar com um corante em um shulker ele será pintado
+* Agora os mobs só irão spawnar quando a luz do ambiente é 0 (luz do sol e lua não interferem) 
+* Agora mobs não podem desfazer sua plantação (pode ser removido em alguma atualização futura)
+* Ao dar para um mob bebê batata venenosa, irá deixá-lo bebê para sempre e lhe dará o efeito de veneno
+* Quando você clicar com o botão direito em um boneco de neve que está sem a cabeça de abobora com uma abobora na mão, ele voltará a ter a abobora na cabeça 
+*
+* Agora o numero de escadas craftadas ao mesmo tempo foi aumentada (isso vale para alçapões também)
+* Agora você pode craftar ejetor usando graveto, liberador e teia de aranha
+* Agora você consegue desfazer o bloco de quartzo, colocando-o em uma crafting table irá transforma-lo em 4 quartzos
+
+### 🔨 Modificado
+
+* A maioria dos plugins foram atualizados para a nova versão dos mesmos
+
 ## 📜 **Season 2 | 11/09-13/10 | Pré Alpha 0.3.7**
 
 ### 🧰 Correções de bugs
