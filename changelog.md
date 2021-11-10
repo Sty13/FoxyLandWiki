@@ -6,6 +6,37 @@ description: >-
 
 # 📜 Changelog
 
+## 📜 **Season 2 | 17/10 a 10/11 | Pré Alpha 0.3.9**
+
+### 🧰 Correções de bugs
+
+* Ao colocar um móvel com cor ele automaticamente perdia a cor
+* TUDO estava errado com o sistema de banco, mas agora está tudo certo :thumbsup:
+
+### 📤 Adicionado
+
+* Agora porco, golfinho, coelho, raposa, gato, zumbi, tartaruga e papagaio tem mais texturas variáveis! (Apenas disponível para clientes optifine)
+* Cachorros foram adicionados!
+* Agora colocando + de 16 flechas no mesmo slot vai dar uma nova textura para as mesmas! (Apenas disponível para clientes optifine)
+* A textura da flecha foi melhorada
+
+![](.gitbook/assets/Screenshot\_3.png)
+
+* Adicionado elevadores
+* Adicionado novos encantamentos [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)** **
+* Adicionado musicas (disponível pelo comando /music)
+* Adicionado leilões
+* Adicionado "Trabalho amigo" (Você pode contratar um jogador para fazer uma tarefa para você)
+* Os moderadores foram espalhados pelo mapa (tente achar todos :eyes:)
+* Agora os móveis são pintáveis (a maioria pelo menos)
+* Como enviar um email in-game adicionado -> [**aqui**](dicas/como-enviar-um-email.md)** **
+
+### 🔨 Modificado
+
+* O modelo padrão da aranha foi alterado (Apenas disponível para clientes optifine)
+
+![Modelo alterado - Aranha](.gitbook/assets/c847d97834fdd05d71fa669ac5ee9d97.gif)
+
 ## 📜 **Season 2 | 17 de outubro | Pré Alpha 0.3.8 - Um novo vanilla**
 
 ### 🧰 Correções de bugs
@@ -33,10 +64,10 @@ description: >-
 * AGORA O WHITER TEM 2x MAIS VIDA
 * Quando o whiter estiver com a metade da vida ele começará a summonar esqueletos whiter para ajudá-lo na batalha
 * Ao clicar com um corante em um shulker ele será pintado
-* Agora os mobs só irão spawnar quando a luz do ambiente é 0 (luz do sol e lua não interferem) 
+* Agora os mobs só irão spawnar quando a luz do ambiente é 0 (luz do sol e lua não interferem)&#x20;
 * Agora mobs não podem desfazer sua plantação (pode ser removido em alguma atualização futura)
 * Ao dar para um mob bebê batata venenosa, irá deixá-lo bebê para sempre e lhe dará o efeito de veneno
-* Quando você clicar com o botão direito em um boneco de neve que está sem a cabeça de abobora com uma abobora na mão, ele voltará a ter a abobora na cabeça 
+* Quando você clicar com o botão direito em um boneco de neve que está sem a cabeça de abobora com uma abobora na mão, ele voltará a ter a abobora na cabeça&#x20;
 *
 * Agora o numero de escadas craftadas ao mesmo tempo foi aumentada (isso vale para alçapões também)
 * Agora você pode craftar ejetor usando graveto, liberador e teia de aranha
@@ -70,7 +101,7 @@ description: >-
 
 
 
-####  📤 Adicionado - Lobby
+#### &#x20;📤 Adicionado - Lobby
 
 * Adicionado comandos para inicialização do evento de abertura do servidor!
 * Adicionado um tab
@@ -94,7 +125,7 @@ description: >-
 ### 🧰 Correções de bugs
 
 * A textura não carregava corretamente e você ficava preso no limbo ;-;
-* O som das madeiras simplesmente sumiram do pack padrão, mas agora estão de volta (não me pergunte como arrumei, pq nem eu sei) 
+* O som das madeiras simplesmente sumiram do pack padrão, mas agora estão de volta (não me pergunte como arrumei, pq nem eu sei)&#x20;
 * O sistema de proximity audio acabou bugando quando eu atualizei para o bungeecoord, mas agora já está tudo rodando perfeitamente (só alguns erros aqui e ali, mas preguiça)
 * Todos os sons estavam sendo transmitidos por um modo incorreto (gambiarra). Mas agora com o nosso novo SUPER ULTRA MEGA SOUND SYSTEM, brincadeira, só uma nova feature no plugin :)
 * Com a alteração do sistema do som ^ os sons já setados como som ambiente, campainha e sons de economia bugaram ;-; mas já foi arrumado hehe
@@ -104,7 +135,7 @@ description: >-
 ### 📤 Adicionado
 
 * Um sistema de plugins foi implementado! (Isso ajudará ao ligar/desligar/reiniciar plugins :>)
-* Agora temos um lobby :dance: 
+* Agora temos um lobby :dance:&#x20;
 * SIstema de fila
 * O /navegador agora aparece normalmente (ele não fica mais vermelho como se não existisse)
 * Um audio ao entrar no servidor :^) só pra teste isso na verdade
@@ -113,7 +144,7 @@ description: >-
 
 ### 🔨 Modificado
 
-* Todos os plugins foram atualizados corretamente! Chega daquelas mensagens spammando o chat.   ^ EDIT: mais plugins foram atualizados, alguns não falam que precisam ser atualizados! 
+* Todos os plugins foram atualizados corretamente! Chega daquelas mensagens spammando o chat.   ^ EDIT: mais plugins foram atualizados, alguns não falam que precisam ser atualizados!&#x20;
 * Os blocos existentes bugaram, mas agora conseguimos colocar um ID especifico em cada um :)
 
 ## 📜 **Season 2 | 24-27 de agosto | Pré Alpha 0.3.5 HOT FIX & UPDATES**
@@ -123,7 +154,7 @@ description: >-
 * Por algum motivo o evento `player_world`_ _foi alterado para_ _`world_to` Fazendo assim o som ambiente do servidor não ser tocado corretamente!
 * Alguns blocos foram recolocados no servidor depois do incidente com os móveis (desculpa Luiz)
 * Os ranks foram de novo alterados para outro caractere, mas agora com um sistema novo nós achamos que não irá mais acontecer ;)
-* Ocorreu alguns problemas com a conexão ovh->vps, nossa equipe aplicou uma gambiarra para arrumar o problema provisoriamente. 
+* Ocorreu alguns problemas com a conexão ovh->vps, nossa equipe aplicou uma gambiarra para arrumar o problema provisoriamente.&#x20;
 
 ### 📤 Adicionado
 
@@ -156,7 +187,7 @@ description: >-
 ![](.gitbook/assets/e9lw8szweayl8wq.png)
 
 * Agora ao entrar no servidor você irá ser teleportado(a) para um lugar calmo até que a sua textura carregue! (de nada)
-* Agora temos uma loja de móveis, quer dizer, apenas o esqueleto dela ;-; 
+* Agora temos uma loja de móveis, quer dizer, apenas o esqueleto dela ;-;&#x20;
 
 ### 🔨 Modificado
 
