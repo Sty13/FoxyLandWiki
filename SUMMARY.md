@@ -1,9 +1,9 @@
 # Table of contents
 
-* [FoxyLand Wiki](README.md)
+* [🦊 FoxyLand Wiki](README.md)
 * [📜 Changelog](changelog.md)
 
-## 🎁 Novos itens/blocos/cosméticos <a href="novos-itens-blocos" id="novos-itens-blocos"></a>
+## 🎁 Novos itens/blocos/cosméticos <a href="#novos-itens-blocos" id="novos-itens-blocos"></a>
 
 * [🧊 Itens & blocos](novos-itens-blocos/itens-e-blocos.md)
 * [🛒 Cosméticos](novos-itens-blocos/cosmeticos.md)
@@ -21,3 +21,4 @@
 * [🔋 Performance](dicas/performance.md)
 * [📜  Como claimar um terreno](dicas/untitled.md)
 * [📬 Como enviar um email](dicas/como-enviar-um-email.md)
+* [🔼Elevadores - Como instalar?](dicas/elevadores-como-instalar.md)

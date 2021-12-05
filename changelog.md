@@ -6,7 +6,36 @@ description: >-
 
 # 📜 Changelog
 
-## 📜 **Season 2 | 17/10 a 10/11 | Pré Alpha 0.3.9**
+## 📜 **Season 2 | 10/11 a 05/12 | Pré Alpha 0.4.0**
+
+### 🧰 Correções de bugs
+
+* Quando um vendedor ambulante aparecia no spawn, um plugin entrava em modo x9 e falava onde ele estava.
+* Alguns plugins não estavam se conectando corretamente a database
+* Os vendedores ambulantes tinham uma trade totalmente customizada (não era proposital hehe)
+* No seletor de server tinha alguns erros de português :stuck\_out\_tongue:
+* Agora o menu de informações tem informações :D QUE DEMAISSS&#x20;
+* Alguns bugs foram encontrados na base do servidor (database e jar).&#x20;
+* Clients na 1.18 não conseguiam se conectar ao servidor (proxy desatualizada)
+* O balde de lava estava com a textura "missing", oopsie
+
+### 📤 Adicionado
+
+* Agora as texturas dos livros encantados são diferentes para cada encantamento, isso deve te ajudar na próxima vez que você for farmar livros e ficar encantando eles igual louco ;-;
+* Nova rota adicionada: r2.foxyland.tk (indisponível no momento pq a propagação não gosta de mim)&#x20;
+
+### 🔨 Modificado
+
+* Mundo de recursos retirado (por enquanto)
+* Sistema de pesca retirado
+* Mobs e bosses customizados retirados
+* Audio in-game retirado
+* Grappling hooks foram retirados (tava com bug, não é minha culpa, ou talvez seja :> você nunca vai saber)
+* Todos os conteúdos escritos foram traduzidos para inglês
+* O servidor seguirá o calendário de eventos e temporadas dos EUA e CA
+* 90% do valor das compras de cosméticos serão doadas para um instituto de caridade (Ainda estamos definindo se o instituto será variável a cada mês ou um especifico por ano) e o resto vai para pagar a equipe do servidor, os pobrezinhos estão trabalhando muito cof cof.&#x20;
+
+## 📜 **Season 2 | 18/10 a 10/11 | Pré Alpha 0.3.9**
 
 ### 🧰 Correções de bugs
 
@@ -23,13 +52,13 @@ description: >-
 ![](.gitbook/assets/Screenshot\_3.png)
 
 * Adicionado elevadores
-* Adicionado novos encantamentos [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)** **
+* Adicionado novos encantamentos [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update) ****&#x20;
 * Adicionado musicas (disponível pelo comando /music)
 * Adicionado leilões
 * Adicionado "Trabalho amigo" (Você pode contratar um jogador para fazer uma tarefa para você)
 * Os moderadores foram espalhados pelo mapa (tente achar todos :eyes:)
 * Agora os móveis são pintáveis (a maioria pelo menos)
-* Como enviar um email in-game adicionado -> [**aqui**](dicas/como-enviar-um-email.md)** **
+* Como enviar um email in-game adicionado -> [**aqui**](dicas/como-enviar-um-email.md) ****&#x20;
 
 ### 🔨 Modificado
 
@@ -94,10 +123,10 @@ description: >-
 
 ### 📤 Adicionado
 
-* Foram adicionados Grappling Hooks para facilitar a movimentação nos mundos. [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)** **
+* Foram adicionados Grappling Hooks para facilitar a movimentação nos mundos. [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update) ****&#x20;
 * Foi adicionado 2 novas cinemáticas ao servidor (Ao entrar pela primeira vez e ao iniciar a quest do banco)
 * Foi adicionadas novas partículas ao jogo
-* Um novo sistema de email foi adicionado [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update)** **
+* Um novo sistema de email foi adicionado [**ᵇᵉᵗᵃ**](changelog.md#season-2-or-03-de-agosto-or-pre-alpha-0-2-9-pequeno-update) ****&#x20;
 
 
 
@@ -151,7 +180,7 @@ description: >-
 
 ### 🧰 Correções de bugs
 
-* Por algum motivo o evento `player_world`_ _foi alterado para_ _`world_to` Fazendo assim o som ambiente do servidor não ser tocado corretamente!
+* Por algum motivo o evento `player_world` __ foi alterado para __ `world_to` Fazendo assim o som ambiente do servidor não ser tocado corretamente!
 * Alguns blocos foram recolocados no servidor depois do incidente com os móveis (desculpa Luiz)
 * Os ranks foram de novo alterados para outro caractere, mas agora com um sistema novo nós achamos que não irá mais acontecer ;)
 * Ocorreu alguns problemas com a conexão ovh->vps, nossa equipe aplicou uma gambiarra para arrumar o problema provisoriamente.&#x20;
