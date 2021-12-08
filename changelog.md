@@ -6,6 +6,20 @@ description: >-
 
 # 📜 Changelog
 
+## 📜 **Season 2 | 05 a 07 de dez | Pré Alpha 0.4.1**
+
+### 🧰 Correções de bugs
+
+* As cabeças bugavam de vez em quando dependendo do jeito que você olhava para elas
+
+### 📤 Adicionado
+
+* Mapa de natal (obg safahisa pela ajuda)
+
+#### INFOS
+
+* 9/58 plugins atualizados (Atualização 1.18)
+
 ## 📜 **Season 2 | 10/11 a 05/12 | Pré Alpha 0.4.0**
 
 ### 🧰 Correções de bugs
