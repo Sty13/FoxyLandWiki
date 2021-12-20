@@ -6,6 +6,30 @@ description: >-
 
 # 📜 Changelog
 
+## 📜 **Season 2 | 07 a 20 /12| Pré Alpha 0.4.2 the 1.18 update**
+
+![](https://cdn.discordapp.com/attachments/867867396353163285/922356756649230356/unknown.png)
+
+### 🧰 Correções de bugs
+
+* A textura em blocos não tinha textura (foi implementado um novo modo de gerar arquivos.json)
+* Agora a bossbar não mostra-as-frases-assim
+* O relógio foi adicionado a bossbar
+* O mundo padrão agora tem uma bossbar
+* As recipes estavam bugadas :) então eu retirei elas&#x20;
+
+### 📤 Adicionado
+
+* O comando /afk agora te leva para um local seguro :)
+* Versão 1.18 adicionada no servidor (em breve 1.18.1, assim que um plugin att)
+* Cosméticos de natal adicionado
+* Algumas furnitures de natal foram adicionadas
+
+### 🔨 Modificado
+
+* Algumas texturas foram modificadas
+* o /skills foi colocado de volta para inglês
+
 ## 📜 **Season 2 | 05 a 07 de dez | Pré Alpha 0.4.1**
 
 ### 🧰 Correções de bugs
