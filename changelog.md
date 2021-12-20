@@ -24,6 +24,7 @@ description: >-
 * Versão 1.18 adicionada no servidor (em breve 1.18.1, assim que um plugin att)
 * Cosméticos de natal adicionado
 * Algumas furnitures de natal foram adicionadas
+* As lanternas e tochas agora tem um novo modelo ao segura-las&#x20;
 
 ### 🔨 Modificado
 
