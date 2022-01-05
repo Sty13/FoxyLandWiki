@@ -23,7 +23,7 @@ description: >-
 
 * Now the trees fall just like real life
 * \[Website] Added Sync button (soonish)
-* How to claim your terrain was added to the wiki you can see it here
+* How to claim your terrain was added to the wiki you can see it [<mark style="color:orange;">**here**</mark>](dicas/how-to-claim-your-terrain.md)<mark style="color:orange;">****</mark>
 
 ### 🔨 Modified
 
