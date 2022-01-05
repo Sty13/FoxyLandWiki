@@ -23,7 +23,7 @@ description: >-
 
 * Now the trees fall just like real life
 * \[Website] Added Sync button (soonish)
-* How to claim your terrain was added to the wiki you can see it [<mark style="color:orange;">**here**</mark>](dicas/how-to-claim-your-terrain.md)<mark style="color:orange;">****</mark>
+* How to claim your terrain was added to the wiki you can see it [<mark style="color:orange;">**here**</mark>](tips/how-to-claim-your-terrain.md)<mark style="color:orange;">****</mark>
 
 ### 🔨 Modified
 
@@ -121,7 +121,7 @@ description: >-
 * Adicionado "Trabalho amigo" (Você pode contratar um jogador para fazer uma tarefa para você)
 * Os moderadores foram espalhados pelo mapa (tente achar todos :eyes:)
 * Agora os móveis são pintáveis (a maioria pelo menos)
-* Como enviar um email in-game adicionado -> [**aqui**](dicas/como-enviar-um-email.md) ****&#x20;
+* Como enviar um email in-game adicionado -> [**aqui**](tips/como-enviar-um-email.md) ****&#x20;
 
 ### 🔨 Modificado
 

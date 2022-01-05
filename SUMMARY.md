@@ -16,9 +16,9 @@
 * [Erro 165](erros/erro-165.md)
 * [Erro 166](erros/erro-166.md)
 
-## 🧡 Dicas
+## 🧡 Tips
 
-* [📜 How to claim your terrain](dicas/how-to-claim-your-terrain.md)
-* [🔋 Performance](dicas/performance.md)
-* [📬 Como enviar um email](dicas/como-enviar-um-email.md)
-* [🔼Elevadores - Como instalar?](dicas/elevadores-como-instalar.md)
+* [📜 How to claim your terrain](tips/how-to-claim-your-terrain.md)
+* [🔋 Performance](tips/performance.md)
+* [📬 Como enviar um email](tips/como-enviar-um-email.md)
+* [🔼Elevadores - Como instalar?](tips/elevadores-como-instalar.md)
