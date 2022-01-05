@@ -18,7 +18,7 @@
 
 ## 🧡 Dicas
 
+* [📜 How to claim your terrain](dicas/how-to-claim-your-terrain.md)
 * [🔋 Performance](dicas/performance.md)
-* [📜  Como claimar um terreno](dicas/untitled.md)
 * [📬 Como enviar um email](dicas/como-enviar-um-email.md)
 * [🔼Elevadores - Como instalar?](dicas/elevadores-como-instalar.md)

@@ -6,7 +6,31 @@ description: >-
 
 # 📜 Changelog
 
-## 📜 **Season 2 | 07 a 20 /12| Pré Alpha 0.4.2 the 1.18 update**
+## 📜 **Season 2 | 04/01 | Beta 0.1.0**
+
+### 🧰 Bug fixes
+
+* The tab was with portuguese tips
+* The default world bossbar was stuck on the spawn time
+* The spawn bossbar was stuck in a certain time
+* The server chunks wasn't in sync with the client causing lag and crashes
+* The lobby parkour was killing people (so mean)
+* The chat wasn't working for me people (should be fixed now)
+* The UUID of some players was completly wiped because they joined with another nickname (Please tell us when you will change nick so we can prevent your inventory being wiped)
+* Some recipes wasn't working for some reason, now they work correctly and you can see them in the recipe boon your inventory
+
+### 📤 Added
+
+* Now the trees fall just like real life
+* \[Website] Added Sync button (soonish)
+* How to claim your terrain was added to the wiki you can see it here
+
+### 🔨 Modified
+
+* The server jar was updated to 1.18.1 and a stable version
+* Multiple plugins was updated
+
+## 📜 **Season 2 | 07 a 20 /12| Alpha 1 the 1.18 update**
 
 ![](https://cdn.discordapp.com/attachments/867867396353163285/922356756649230356/unknown.png)
 
@@ -207,7 +231,7 @@ description: >-
 * SIstema de fila
 * O /navegador agora aparece normalmente (ele não fica mais vermelho como se não existisse)
 * Um audio ao entrar no servidor :^) só pra teste isso na verdade
-* Foi adicionado uma sessão de [como claimar um terreno](dicas/untitled.md)! ainda não tem nada lá, mas logo logo irei adicionar.
+* Foi adicionado uma sessão de [como claimar um terreno](broken-reference)! ainda não tem nada lá, mas logo logo irei adicionar.
 * Agora temos um banco :pog:
 
 ### 🔨 Modificado
