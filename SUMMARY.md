@@ -1,7 +1,6 @@
 # Table of contents
 
 * [🦊 FoxyLand Wiki](README.md)
-* [📜 Changelog](changelog.md)
 
 ## 🎁 Novos itens/blocos/cosméticos <a href="#novos-itens-blocos" id="novos-itens-blocos"></a>
 
