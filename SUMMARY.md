@@ -4,8 +4,8 @@
 
 ## 🎁 Novos itens/blocos/cosméticos <a href="#novos-itens-blocos" id="novos-itens-blocos"></a>
 
-* [🧊 Itens & blocos](novos-itens-blocos/itens-e-blocos.md)
-* [🛒 Cosméticos](novos-itens-blocos/cosmeticos.md)
+* [🧊 Items & blocks](novos-itens-blocos/itens-e-blocos.md)
+* [🛒 Cosmetics](novos-itens-blocos/cosmeticos.md)
 
 ## 👾 Erros
 

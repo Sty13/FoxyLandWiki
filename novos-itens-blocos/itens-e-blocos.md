@@ -1,34 +1,44 @@
 ---
-description: Saiba quais são os novos os itens e os seus respectivos crafts!
+description: Find out what are the new items and their respective crafts!
 ---
 
-# 🧊 Itens & blocos
+# 🧊 Items & blocks
 
 {% tabs %}
-{% tab title="Ferramentas" %}
-## Sabe, eu estou com preguiça de fazer ferramentas novas agora 👀
+{% tab title="Tools" %}
+## Fire pickaxe
+
+![Breaks 3x3 blocks and automatically smelts ore](../.gitbook/assets/Screenshot\_23.png)
+
+## Fire hoe
+
+![Breaks a 3x3 area of plants](../.gitbook/assets/Screenshot\_25.png)
 {% endtab %}
 
-{% tab title="Comidas" %}
-🍎 🍐 🍊 🍋 🍌 🍉 🍇 🍓 🍈 🍒 🍑 🥭 🍍 🥥 🥝 🍅 🍆 🥑 🥦 🥬 🥒 🌶 🌽 🥕 🧄
-
-Ah, desculpa, eu esqueci que eu tinha que escrever
+{% tab title="Foods" %}
+Soon :)
 {% endtab %}
 
-{% tab title="Blocos" %}
+{% tab title="Blocks" %}
+You can see the blocks crafting scrolling trhu the recipe book on the crafting table :)
+{% endtab %}
+
+{% tab title="Combat" %}
+## Fire sword
+
+![Gives a chance of lifeleech](../.gitbook/assets/Screenshot\_26.png)
+
+## Fire axe
+
+![When right clicked, the axe will spawn a lightning where you're looking](../.gitbook/assets/Screenshot\_24.png)
+{% endtab %}
+
+{% tab title="Armors" %}
 
 {% endtab %}
 
-{% tab title="Combate" %}
-
-{% endtab %}
-
-{% tab title="Armaduras" %}
-
-{% endtab %}
-
-{% tab title="Em breve" %}
-Você acha mesmo que eu ia colocar o que é que vem em breve aqui? pffff
+{% tab title="Soon" %}
+SOOOOOOOOOOOONYY
 {% endtab %}
 {% endtabs %}
 
