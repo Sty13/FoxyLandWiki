@@ -40,5 +40,13 @@ You can see the blocks crafting scrolling trhu the recipe book on the crafting t
 {% tab title="Soon" %}
 SOOOOOOOOOOOONYY
 {% endtab %}
+
+{% tab title="Cogs" %}
+![Golden Cog recipe](../.gitbook/assets/Screenshot\_33.png)
+
+![Diamond Cog recipe](../.gitbook/assets/Screenshot\_32.png)
+
+![Fire Cog recipe](../.gitbook/assets/Screenshot\_31.png)
+{% endtab %}
 {% endtabs %}
 
